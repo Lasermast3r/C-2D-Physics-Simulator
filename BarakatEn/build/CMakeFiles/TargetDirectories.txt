@@ -1,0 +1,8 @@
+C:/Godot/Projects/Barakat/BarakatEn/build/CMakeFiles/BarakatEn.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/CMakeFiles/INSTALL.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/CMakeFiles/ALL_BUILD.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/CMakeFiles/ZERO_CHECK.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-build/CMakeFiles/INSTALL.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-build/CMakeFiles/ALL_BUILD.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-build/src/CMakeFiles/box2d.dir
+C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-build/src/CMakeFiles/INSTALL.dir

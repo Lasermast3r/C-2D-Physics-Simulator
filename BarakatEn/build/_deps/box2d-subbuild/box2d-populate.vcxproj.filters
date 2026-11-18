@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\e64378a9e261c2b8d80237b3184aa676\box2d-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\376e94eba0c2c2726920c7ae4ed92823\box2d-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\52c2419ea7f02fc08c72e35d79f46f29\box2d-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\box2d-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F736EC2-D1C4-3604-A055-87CDAF2FDB85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

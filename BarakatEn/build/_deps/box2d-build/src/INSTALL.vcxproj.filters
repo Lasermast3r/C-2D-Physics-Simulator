@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\CMakeFiles\c6bb37567335b8b685dce5951ae4dac8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7844D906-61D4-3A6F-AEE0-2C52E6CB313E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

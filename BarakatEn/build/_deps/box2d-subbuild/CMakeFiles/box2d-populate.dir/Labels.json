@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/52c2419ea7f02fc08c72e35d79f46f29/box2d-populate.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/376e94eba0c2c2726920c7ae4ed92823/box2d-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-build.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-download.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-install.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-test.rule"
+		},
+		{
+			"file" : "C:/Godot/Projects/Barakat/BarakatEn/build/_deps/box2d-subbuild/CMakeFiles/e64378a9e261c2b8d80237b3184aa676/box2d-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"box2d-populate"
+		],
+		"name" : "box2d-populate"
+	}
+}

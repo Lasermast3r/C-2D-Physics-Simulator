@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Godot\Projects\Barakat\BarakatEn\build\_deps\box2d-subbuild\CMakeFiles\52c2419ea7f02fc08c72e35d79f46f29\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F736EC2-D1C4-3604-A055-87CDAF2FDB85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
